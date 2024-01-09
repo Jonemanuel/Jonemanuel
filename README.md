@@ -20,7 +20,6 @@ HTML5 e CSS3: Criação de interfaces atraentes e responsivas.<br/>
 JavaScript (ES6): Implementação de funcionalidades dinâmicas e interativas.<br/>
 PHP 7.4: Desenvolvimento de scripts do lado do servidor.<br/>
 Java 8: Aplicação em componentes específicos para atender requisitos particulares.<br/>
-Projetos em Destaque:<br/>
 
 
 Sinta-se à vontade para explorar o código, abrir issues ou enviar pull requests. Sua contribuição é valiosa!<br/>
