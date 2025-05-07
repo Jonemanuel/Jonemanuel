@@ -31,8 +31,6 @@ Atualmente, desenvolvo aplicações web e mobile com foco em desempenho, organiz
 ### 📊 GitHub Stats
 
 ![Jônatas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonemanuel&show_icons=true&theme=dracula&count_private=true)
-![A+ GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonemanuel&show_icons=true&theme=dracula&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonemanuel&layout=compact&theme=dracula)
 
 
